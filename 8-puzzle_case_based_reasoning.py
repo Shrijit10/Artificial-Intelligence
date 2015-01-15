@@ -1,5 +1,4 @@
 #Name: Shrijit Pillai
-#Username: pillaish
 
 import time;
 import random;
