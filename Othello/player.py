@@ -598,10 +598,7 @@ best_eval = -1
 depth = 0
 max_depth = 3  # Depth for the tree is 3 
         
-t1 = time.time()
-t2 = time.time()
-p1time = 64
-p1time = p1time - (t2 - t1)        
+       
                 
         
         
